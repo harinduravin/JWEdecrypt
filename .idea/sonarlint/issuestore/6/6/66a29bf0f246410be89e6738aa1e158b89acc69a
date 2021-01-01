@@ -1,0 +1,12 @@
+
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(á‚Ğÿÿÿÿÿ8Áôå.
+Y
+java:S1854M"7Remove this useless assignment to local variable "cat".(¤ÆÖŒıÿÿÿÿ8şÍşŠå.
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(Ò¯•µûÿÿÿÿ8ïùÀŠå.
+7
+java:S1220""Move this file to a named package.8ÿÂŠå.
+a
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(„›íg8Çì›å.
+U	java:S106S"9Replace this use of System.out or System.err by a logger.(Íş­ğ8ïùÀŠå.
+J
+java:S1481M"(Remove this unused "cat" local variable.(¤ÆÖŒıÿÿÿÿ8şÍşŠå.
